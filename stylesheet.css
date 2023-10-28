@@ -1,7 +1,9 @@
 @charset "UTF-8";
+
+.image {
+}
 .nav {
     /* [disabled]background-color: #708A81; */
-    color: #708A81;
 }
 style>
 a:link, a:visited {
@@ -15,4 +17,7 @@ a:link, a:visited {
 
 a:hover, a:active {
   background-color: #708A81;
+}
+.About {
+    font-size: 50px;
 }
