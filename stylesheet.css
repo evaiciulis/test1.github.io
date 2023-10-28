@@ -1,0 +1,18 @@
+@charset "UTF-8";
+.nav {
+    /* [disabled]background-color: #708A81; */
+    color: #708A81;
+}
+style>
+a:link, a:visited {
+  background-color: #708A81;
+  color: #2B2128;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #708A81;
+}
